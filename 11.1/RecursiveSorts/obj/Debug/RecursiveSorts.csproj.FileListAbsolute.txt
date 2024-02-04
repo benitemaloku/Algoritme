@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive\Desktop\11.1\RecursiveSorts\bin\Debug\RecursiveSorts.exe.config
+C:\Users\admin\OneDrive\Desktop\11.1\RecursiveSorts\bin\Debug\RecursiveSorts.exe
+C:\Users\admin\OneDrive\Desktop\11.1\RecursiveSorts\bin\Debug\RecursiveSorts.pdb
+C:\Users\admin\OneDrive\Desktop\11.1\RecursiveSorts\obj\Debug\RecursiveSorts.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\11.1\RecursiveSorts\obj\Debug\RecursiveSorts.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\11.1\RecursiveSorts\obj\Debug\RecursiveSorts.exe
+C:\Users\admin\OneDrive\Desktop\11.1\RecursiveSorts\obj\Debug\RecursiveSorts.pdb
